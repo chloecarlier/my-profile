@@ -1,0 +1,126 @@
+body{
+	background-color: #e3f6f5;
+	font-size: 30px;
+	font-family: 'Cookie', cursive;
+
+
+}
+img{
+	
+}
+h1{
+	font-family: 'Alata', sans-serif;
+	text-align: center;
+	color: blue;
+	text-overflow: ellipsis;
+	text-shadow: 5px 5px #558ABB;
+	
+}
+
+h2{
+	color:#2e279d;
+	text-decoration: underline;
+    text-shadow: #FC0 1px 0 10px;
+    text-align: center;
+}
+
+h3{
+	text-shadow: 1px 1px 2px pink;
+
+}
+h3:hover{
+	text-shadow:#FC0 1px 0 10px;
+}
+
+.border{
+background:#badfdb ;
+padding: 20px 30px;
+	border-width: 4px;
+	border-color:#bae8e8;
+	border-style: groove;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px  #bae8e8;
+	width: 600px;
+	margin: 0 auto;
+
+}
+
+.align{
+	text-align: center;
+
+}
+
+.list-inline{
+	
+	list-style-type: none;	
+
+}
+
+#infos{
+	text-align: center;
+}
+
+a{
+	color: white;
+	background-color:#96d1c7;
+	padding: 10px 30px;
+	font-size: 30px;
+    margin-left: 20px;
+	float: left;
+	text-shadow: 1px 1px 2px pink;
+}
+a:hover {
+	color: #4d80e4; 
+	font-weight: bolder;
+}
+}
+
+h4{
+	text-shadow: 1px 1px 2px pink;
+}
+h4:hover{
+	text-shadow:#FC0 1px 0 10px;
+}
+
+span{
+	text-shadow: 1px 1px 2px pink;
+}
+span:hover{
+	text-shadow:#FC0 1px 0 10px;
+}
+
+
+ .container{
+ 	width: 700px;
+ 	margin: 40px auto;
+ }
+
+ #circle{
+ 	border-radius: 60%;
+ }
+
+#name{
+	text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em white;
+}
+
+div>p{
+	margin-top: 0;
+}
+
+.school{
+	display: inline-block;
+	list-style-type: none;
+
+}
+
+.school{
+	margin-left: 50px;
+}
+.images{
+	float: left;
+	;
+}
+
+#images{
+	margin-bottom: 25px;
+}
